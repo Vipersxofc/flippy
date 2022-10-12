@@ -1,22 +1,43 @@
 {
-	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
-	],
-
+	"storyName": "necesito sexo'",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"dad",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "Daddy Dearest",
-	"weekBefore": "tutorial",
-	"weekName": "Week 1",
-	"startUnlocked": true,
-
+	"songs": [
+		[
+			"Salute",
+			"flippy-happy",
+			[
+				20,
+				255,
+				20
+			]
+		],
+		[
+			"Mortar",
+			"flippy-happy",
+			[
+				20,
+				255,
+				20
+			]
+		],
+		[
+			"Fury",
+			"fliqpy",
+			[
+				20,
+				255,
+				20
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "week1"
 }
