@@ -156,12 +156,12 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/BOYFRIEND_HTF",
 	"position": [
 		60,
 		230
 	],
-	"healthicon": "bf",
+	"healthicon": "bf-htf",
 	"flip_x": true,
 	"healthbar_colors": [
 		102,
